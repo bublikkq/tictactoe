@@ -18,8 +18,5 @@ A simple Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Players take tur
 - CSS3
 - JavaScript
 
-## Demo
-(You can add a live demo link here after enabling GitHub Pages)
-
 ## Author
 Vladislav Klevakin ([bublikkq](https://github.com/bublikkq))
